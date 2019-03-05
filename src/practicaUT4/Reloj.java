@@ -10,7 +10,7 @@ package practicaUT4;
  * @author usuario
  */
 public class Reloj {
-
+//ESTE ES MI CAMBIO
     //Atributos de la clase Reloj
     private int HH;
     //Atributos de la clase Reloj
